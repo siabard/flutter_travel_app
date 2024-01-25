@@ -11,6 +11,9 @@
 .svn/
 migrate_working_dir/
 
+# hive generated (사용자 직접 지정)
+*.g.dart
+
 # IntelliJ related
 *.iml
 *.ipr
